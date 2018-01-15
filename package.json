@@ -1,6 +1,6 @@
 {
   "name": "@mingshz/api-mocker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "API模拟器 扩展了swagger2.0标准 https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md，附加了可控的结果。",
   "main": "lib/index.js",
   "scripts": {
